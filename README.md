@@ -1,9 +1,11 @@
 <div align="center">
   <h1> Laura Maddaluno </h1>
+  <br>
   
-[Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Other qualifications](#other-qualifications) | [Hobbies](#hobbies) 
+[Projects](#projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Other qualifications](#other-qualifications) | [Code Review](#code-reviews) | [Hobbies](#hobbies) 
  
 </div>
+<br>
 
 I am a junior software developer, resilient, reflective and passionate about coding. During last year, I taught myself how to code, using resources like Udemy, freeCodeCamp, codebar and Codecademy. I was able to build my first projects in HTML, CSS, and JS in a short amount of time, which gave me the opportunity to receive a scholarship to Makers Academy, where I learned about the power of a growth mindset and the joy of working in a dev team.
 
@@ -106,8 +108,50 @@ Intensive Full Stack Software Engineering Bootcamp
 * Theoretical Seminar Experiential Introduction to Music Therapy, Città dell'Essere, Naples Mar.  2008
 * Theories and techniques of interpersonal communication, GI Group, Naples Feb.  2008
 
+## Code Reviews
+
+During Makers I had the opportunity to be observed, for one hour, by a technical expert from [CoGrammar](https://www.cogrammar.com/) on how to convert an hypotetical product owner non-technical requirements into a working, tested, well-written application.
+
+<details>
+  <summary>Here the feedback</summary>
+ <br>
+  
+**I use an agile process**
+
+> "You have clarified the main requirements well with the client and understood the behaviour of the program quite well. You also took note of the requirements as the client provided them.You have created an input-output table with the examples that I have shared with you which is really great."
+
+**Can model**
+
+> "Your method names adhered to the Ruby naming convention of snake_case and were also actionable names that describe what the methods do in a way that reflects the client’s domain. The algorithm that you completed made logical sense and was able to adhere to the requirements as were provided by the client."
+
+**Can TDD**
+
+> "Your test progression made logical sense and you used it in order to make incremental transformations to the code so that with each specific test, the solution becomes more general."
+
+**Can program fluently**
+
+> "You are very fluent with Ruby and RSpec syntax and language constructs. You are also aware of built-in methods in Ruby and how to use them correctly. Your algorithm was definitely on the right path and was a logical solution to the problem."
+
+**Can write code that is easy to change**
+
+> "I was pleased to see that you had your test suite decoupled from the implementation. This was done by testing the expected inputs and outputs of the system. This promotes flexibility in your code, and so any changes made to the structure of the code will not warrant a change in tests. You have used descriptive variable and method names which assisted in making your code easy to understand and therefore easier to make changes to."
+
+**Can debug**
+
+> "You were reading the backtrace carefully and were familiar with common errors, this helped you to formulate a good hypothesis as to why errors were occurring and made the necessary changes."
+
+**Methodological approach to problem solving**
+
+> "You adhered to the red-green-refactor cycle and maintained a good behaviour-first approach. You also prioritised the core and simpler cases over the edge cases and more complex scenarios, allowing you to provide the client with immediate value. Your tests also progressed logically, giving your development cycle a sensible direction."
+
+**Justify the way I work**
+
+> "You were very vocal about your process and the decisions that you have made. You also made sound justifications for why you were making those decisions."
+
+</details>
+
 ## Hobbies
 
-I am an active member of codebar as student and as volunteer and I also enjoy TDD with Ladies of code.  
+I am an active member of codebar as student and as volunteer and every Wednesday I enjoy TDD with Ladies of code.  
 Use my creativity and my hands to bring projects to life, for example I made 150 origamy wedding party invitation and... I was the bride...  
 I love to bake and I am very proud of my bread an pizza, but [here](https://lauramaddaluno.github.io/product-landing-page/) you can see some of my cakes.
